@@ -54,8 +54,8 @@ class LoginScren extends Component {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          Username: 'bdincer',
-          Password: 'bdd2020.Bd',
+          Username: 'xx',
+          Password: 'xx',
         }),
       })
         .then(function(response) {
